@@ -1,0 +1,11 @@
+button {
+  margin: 45vh 45vw;
+}
+.btn {
+  color: white;
+  background-color: black;
+  border: 3px solid purple;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+}
